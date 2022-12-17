@@ -24,7 +24,7 @@ if __name__ == "__main__":
         
         message = """To prevent dehydration, You need to get plenty of water. Commonly recommend about 3 litres a day.""",
         
-        app_icon =r'C:\Users\laksh\Desktop\water.ico',
+        app_icon =r'C:\Users\path..\water.ico',
         
         timeout=2,
         
